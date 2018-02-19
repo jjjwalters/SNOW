@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_126277_as_pcet_pcet">x_126277_as_pcet_pcet</category>
+        <maximum_digits>5</maximum_digits>
+        <number>1000</number>
+        <prefix>PCE</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-15 12:21:04</sys_created_on>
+        <sys_id>4d62e62ddb101300429e5ff0cf96197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PCE</sys_name>
+        <sys_package display_value="AS_PCET" source="x_126277_as_pcet">91a55661db101300429e5ff0cf961929</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AS_PCET">91a55661db101300429e5ff0cf961929</sys_scope>
+        <sys_update_name>sys_number_4d62e62ddb101300429e5ff0cf96197e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-15 12:21:04</sys_updated_on>
+    </sys_number>
+</record_update>

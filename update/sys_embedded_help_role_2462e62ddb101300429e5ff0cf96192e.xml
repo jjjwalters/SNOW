@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_126277_as_pcet.pcet_user" name="x_126277_as_pcet.pcet_user">ac62e62ddb101300429e5ff0cf96192b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-15 12:21:02</sys_created_on>
+        <sys_id>2462e62ddb101300429e5ff0cf96192e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ac62e62ddb101300429e5ff0cf96192b</sys_name>
+        <sys_package display_value="AS_PCET" source="x_126277_as_pcet">91a55661db101300429e5ff0cf961929</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AS_PCET">91a55661db101300429e5ff0cf961929</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2462e62ddb101300429e5ff0cf96192e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-15 12:21:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

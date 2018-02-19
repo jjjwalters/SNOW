@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-15 12:21:03</sys_created_on>
+        <sys_id>a062e62ddb101300429e5ff0cf96194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_126277_as_pcet_pcet.x_126277_as_pcet.pcet_user</sys_name>
+        <sys_package display_value="AS_PCET" source="x_126277_as_pcet">91a55661db101300429e5ff0cf961929</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AS_PCET">91a55661db101300429e5ff0cf961929</sys_scope>
+        <sys_security_acl display_value="x_126277_as_pcet_pcet">e862e62ddb101300429e5ff0cf96193b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a062e62ddb101300429e5ff0cf96194b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-15 12:21:03</sys_updated_on>
+        <sys_user_role display_value="x_126277_as_pcet.pcet_user" name="x_126277_as_pcet.pcet_user">ac62e62ddb101300429e5ff0cf96192b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
